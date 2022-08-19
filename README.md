@@ -24,7 +24,7 @@ python3 :)
 
 
 
-![20200808_16075](https://media.discordapp.net/attachments/992927960497672364/997621040781996092/c056f54b785401796687732da37ca3eb.gif)
+![20200808_16075](https://media.discordapp.net/attachments/974088587526144010/1010233257243185232/Screenshot_20220819-200547_Termux.jpg)
 
 
 ## <b>installation</b>
