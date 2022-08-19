@@ -12,7 +12,7 @@ python3 :)
        🔐PAID TOOL ONLY🔐 
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+CHIGOZIEWORLDWIDE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+Robot°16💥16)](https://git.io/typing-svg)
 
 <h1 align="center"> |CYTHON FAMILY|</h1>
 
