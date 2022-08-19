@@ -24,7 +24,7 @@ python3 :)
 
 
 
-![20200808_16075]()
+![20200808_16075](https://media.discordapp.net/attachments/992927960497672364/997621040781996092/c056f54b785401796687732da37ca3eb.gif)
 
 
 ## <b>installation</b>
